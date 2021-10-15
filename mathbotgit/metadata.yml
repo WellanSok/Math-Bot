@@ -1,0 +1,12 @@
+---
+:id: 76862890
+:submitters:
+- :name: Wellan Sok
+  :email: wsok@umass.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-04-26 06:14:02.233468000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-04-25 23:14:02.233468000 Z
+:status: processed
+:score: 1000.0
